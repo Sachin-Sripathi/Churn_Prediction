@@ -41,3 +41,4 @@ Key Features: Customer lifetime, intake, outgoing activity.
 **Future Scope:**
 Improving model precision for the churners class.
 Exploring deep neural networks as a potential approach to enhance prediction accuracy, especially with larger datasets.
+"## Notes by Sachin Sripathi" 
